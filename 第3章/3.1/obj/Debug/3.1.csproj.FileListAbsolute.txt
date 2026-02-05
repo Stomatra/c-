@@ -1,0 +1,7 @@
+C:\Users\yjh12\Desktop\工程\c#\第3章\3.1\bin\Debug\3.1.exe.config
+C:\Users\yjh12\Desktop\工程\c#\第3章\3.1\bin\Debug\3.1.exe
+C:\Users\yjh12\Desktop\工程\c#\第3章\3.1\bin\Debug\3.1.pdb
+C:\Users\yjh12\Desktop\工程\c#\第3章\3.1\obj\Debug\3.1.csproj.AssemblyReference.cache
+C:\Users\yjh12\Desktop\工程\c#\第3章\3.1\obj\Debug\3.1.csproj.CoreCompileInputs.cache
+C:\Users\yjh12\Desktop\工程\c#\第3章\3.1\obj\Debug\3.1.exe
+C:\Users\yjh12\Desktop\工程\c#\第3章\3.1\obj\Debug\3.1.pdb

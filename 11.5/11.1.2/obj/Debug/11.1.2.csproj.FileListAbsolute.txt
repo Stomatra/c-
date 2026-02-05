@@ -1,0 +1,11 @@
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\bin\Debug\11.1.2.exe.config
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\bin\Debug\11.1.2.exe
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\bin\Debug\11.1.2.pdb
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\obj\Debug\11.1.2.csproj.AssemblyReference.cache
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\obj\Debug\_11._1._2.Form1.resources
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\obj\Debug\_11._1._2.Properties.Resources.resources
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\obj\Debug\11.1.2.csproj.GenerateResource.cache
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\obj\Debug\11.1.2.csproj.CoreCompileInputs.cache
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\obj\Debug\11.1.2.exe
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\obj\Debug\11.1.2.pdb
+C:\Users\yjh12\Desktop\工程\c#\11.5\11.1.2\obj\Debug\11.1.2.exe.config

@@ -1,0 +1,8 @@
+C:\Users\yjh12\Desktop\工程\c#\9.7\9.7\bin\Debug\9.7.exe.config
+C:\Users\yjh12\Desktop\工程\c#\9.7\9.7\bin\Debug\9.7.exe
+C:\Users\yjh12\Desktop\工程\c#\9.7\9.7\bin\Debug\9.7.pdb
+C:\Users\yjh12\Desktop\工程\c#\9.7\9.7\obj\Debug\9.7.csproj.AssemblyReference.cache
+C:\Users\yjh12\Desktop\工程\c#\9.7\9.7\obj\Debug\9.7.csproj.CoreCompileInputs.cache
+C:\Users\yjh12\Desktop\工程\c#\9.7\9.7\obj\Debug\9.7.exe
+C:\Users\yjh12\Desktop\工程\c#\9.7\9.7\obj\Debug\9.7.pdb
+C:\Users\yjh12\Desktop\工程\c#\9.7\9.7\obj\Debug\9.7.exe.config
